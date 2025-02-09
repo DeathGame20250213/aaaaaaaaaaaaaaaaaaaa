@@ -4,12 +4,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color: black;
     margin: 0;
 }
 
 .container {
-    background: white;
+    background: black;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -27,17 +27,17 @@ input {
 button {
     padding: 10px 20px;
     border: none;
-    background-color: #28a745;
+    background-color: #fc0505;
     color: white;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #218838;
+    background-color: #fc0505;
 }
 
 #message {
-    color: red;
+    color: white;
     margin-top: 10px;
 }
