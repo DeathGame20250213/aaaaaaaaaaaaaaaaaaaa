@@ -1,5 +1,5 @@
 function checkPassword() {
-    const correctPassword = "1234"; // 設定するパスワード
+    const correctPassword = "PUNISHMENT"; // 設定するパスワード
     const inputPassword = document.getElementById("password").value;
     const message = document.getElementById("message");
 
